@@ -1,0 +1,14 @@
+@include('common.head.head')
+<body>
+@include('common.header.header')
+@include('sections.hero.hero')
+@include('sections.aboutus.aboutus')
+@include('sections.service.service')
+@include('sections.service.service')
+@include('sections.portfolio.portfolio')
+@include('sections.clients.clients')
+@include('sections.team.team')
+@include('common.footer.footer')
+@include('js')
+</body>
+</html>
